@@ -2,6 +2,10 @@
 
 </br>
 
+[Market](https://github.com/cryptopayserver00/market)
+
+Decentralized cryptocurrency exchange.
+
 [CryptoPayServer](https://github.com/cryptopayserver00/cryptopayserver)
 
 Accept Crypto payments. Free, open-source & self-hosted, Crypto payment processor.
