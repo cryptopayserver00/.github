@@ -2,13 +2,9 @@
 
 </br>
 
-[Market](https://github.com/cryptopayserver00/market)
-
-Decentralized cryptocurrency exchange.
-
 [CryptoPayServer](https://github.com/cryptopayserver00/cryptopayserver)
 
-Accept Crypto payments. Free, open-source & self-hosted, Crypto payment processor.
+An open-source, self-hosted crypto-payment service. Your cryptos, your data, your control — no tracking, no ads, no subscription fees.
 
 [Docs](https://cryptopayserver.gitbook.io/cryptopayserver)
 
